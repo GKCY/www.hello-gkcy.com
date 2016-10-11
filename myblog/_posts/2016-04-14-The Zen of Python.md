@@ -33,4 +33,3 @@ categories: jekyll update
 &nbsp;&nbsp;&nbsp;&nbsp;这首诗名叫《The Zen of Pthon》，中文名叫做《Python之禅》。  
 &nbsp;&nbsp;&nbsp;&nbsp;由此可以看出，Python的设计哲学是“优雅”、“明确”、“简单”。Python开发者的哲学是“用一种方法，最好是只有一种方法来做一件事”。它可以让你专注于问题的本身，使你的思想从语法的束缚中解放出来。  
 &nbsp;&nbsp;&nbsp;&nbsp;人生苦短，我用Python!
-为什么
